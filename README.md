@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Deibyth" target="blank">
 Deibith Alejandro</a></h1>
-<h3 align="center">Desarrollador Junior Back</h3>
+<h3 align="center">Desarrollador Back Junior </h3>
 
 <p align="left"> <a href="https://x.com/Deibyth322?t=lAsoFE5cp2R6-_2Js7k7LA&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/Deibyth322?logo=twitter&style=for-the-badge" alt="Deibyth322" /></a> </p>
 
@@ -18,7 +18,7 @@ Deibith Alejandro</a></h1>
 
 - 📝 También he trabajado con Java, SpringBoot, JavaScript, React, ReactNative
 
-- 💬 Siempre en busca de mejorar
+- 💬 Siempre en busca de nuevas experiencias
 
 - 📫 Contactame **deibyth.0322@gmail.com**
 
@@ -27,11 +27,11 @@ Deibith Alejandro</a></h1>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://co.linkedin.com/in/deibyth-alejandro-padilla-chica-9461a41aa">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Deibyth">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://github.com/Deibyth">
+		<a style="margin-left: 10px;" target="_blank" href="https://x.com/Deibyth322?t=lAsoFE5cp2R6-_2Js7k7LA&s=09">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
       </div>
 
