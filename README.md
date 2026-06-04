@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/Deibyth" target="blank">
+<h1 align="center">Hola! 👋 Un gusto, soy <a href="https://github.com/Deibyth" target="blank">
 Deibith Alejandro</a></h1>
-<h3 align="center">Desarrollador Back Junior </h3>
+<h3 align="center">Backend Developer | AI Enthusiast | Automation Builder </h3>
 
 <p align="left"> <a href="https://x.com/Deibyth322?t=lAsoFE5cp2R6-_2Js7k7LA&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/Deibyth322?logo=twitter&style=for-the-badge" alt="Deibyth322" /></a> </p>
 
@@ -8,17 +8,23 @@ Deibith Alejandro</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Actualmente busco mi segundo empleo como dev</a>
+- 🔭 Desarrollador con enfoque back</a>
 
-- 🌱 Me gusta trabajar ultimamente con Python
+- ⚡ Me gusta trabajar ultimamente con Python, FastAPI, FastMCP.
 
-- 🤝 Estoy disponible a cualquier oportunidad
+- 🔗 Integración de LLMs, MCP Servers y herramientas para aumentar productividad.
 
-- 🌱 Estoy aprendiendo constatemente en Python y todo lo relacionado a ello</a>
+- 🌱 Si puedes imaginarlo, podemos programarlo</a>
 
 - 📝 También he trabajado con Java, SpringBoot, JavaScript, React, ReactNative
 
 - 💬 Siempre en busca de nuevas experiencias
+  
+- 🚀 Actualmente
+	- Creando APIs con FastAPI
+	- Experimentando con agentes de IA y MCP
+	- Construyendo automatizaciones con Python
+	- Aprendiendo arquitecturas para sistemas AI-First
 
 - 📫 Contactame **deibyth.0322@gmail.com**
 
@@ -35,6 +41,7 @@ Deibith Alejandro</a></h1>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+
  
  
 
