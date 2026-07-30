@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Deibith Alejandro — Backend Developer" src="./banner.svg" width="100%" />
+<img alt="Deibith Alejandro — Backend Developer" src="./Banner.svg" width="100%" />
 
 </div>
 
@@ -21,7 +21,7 @@
 ### `$ ps aux --user=deibyth`
 
 <div align="center">
-<img alt="process monitor" src="./processes.svg" width="100%" />
+<img alt="process monitor" src="./Processes.svg" width="100%" />
 </div>
 
 <br/>
