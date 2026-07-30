@@ -1,18 +1,12 @@
 <div align="center">
 
-<picture>
-  <img alt="Deibith Alejandro — Backend Developer" src="./banner.svg" width="100%" />
-</picture>
+<img alt="Deibith Alejandro — Backend Developer" src="./banner.svg" width="100%" />
 
 </div>
 
 <br/>
 
-<div align="center">
-
-[38;5;51m$ cat about.md[0m
-
-</div>
+### `$ cat about.md`
 
 - 🔭  Desarrollador con enfoque **backend**
 - ⚡  Últimamente trabajando con **Python · FastAPI · FastMCP**
@@ -26,13 +20,9 @@
 
 ### `$ ps aux --user=deibyth`
 
-```ansi
-[38;5;244mPID   USER      %CPU  %MEM   UPTIME   COMMAND[0m
-[38;5;51m1001[0m  [38;5;141mdeibyth[0m   [38;5;42m98.2[0m  512M   47d      [1mfastapi-projects[0m --watch
-[38;5;51m1002[0m  [38;5;141mdeibyth[0m   [38;5;42m87.4[0m  340M   12d      [1mmcp-server[0m --tools=llm-agents
-[38;5;51m1003[0m  [38;5;141mdeibyth[0m   [38;5;42m73.1[0m  290M   6d       [1mautomation-daemon[0m --cron="*/whenever"
-[38;5;51m1004[0m  [38;5;141mdeibyth[0m   [38;5;42m41.6[0m  128M   [38;5;42m∞[0m        [1mcuriosity.service[0m --restart=always
-```
+<div align="center">
+<img alt="process monitor" src="./processes.svg" width="100%" />
+</div>
 
 <br/>
 
@@ -89,8 +79,6 @@
 <br/>
 
 <div align="center">
-<sub>[38;5;244mprocess curiosity.service is healthy — uptime: ∞[0m</sub>
-<br/>
 <img src="https://komarev.com/ghpvc/?username=Deibyth&style=flat-square&color=22D3EE&labelColor=0A101F" />
 </div>
 
